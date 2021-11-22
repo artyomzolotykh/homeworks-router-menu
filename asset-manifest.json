@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/homeworks-router-menu/static/css/main.235a66e2.chunk.css",
+    "main.js": "/homeworks-router-menu/static/js/main.ea81858a.chunk.js",
+    "main.js.map": "/homeworks-router-menu/static/js/main.ea81858a.chunk.js.map",
+    "runtime-main.js": "/homeworks-router-menu/static/js/runtime-main.70eea6a8.js",
+    "runtime-main.js.map": "/homeworks-router-menu/static/js/runtime-main.70eea6a8.js.map",
+    "static/js/2.60701c97.chunk.js": "/homeworks-router-menu/static/js/2.60701c97.chunk.js",
+    "static/js/2.60701c97.chunk.js.map": "/homeworks-router-menu/static/js/2.60701c97.chunk.js.map",
+    "static/js/3.8cb36769.chunk.js": "/homeworks-router-menu/static/js/3.8cb36769.chunk.js",
+    "static/js/3.8cb36769.chunk.js.map": "/homeworks-router-menu/static/js/3.8cb36769.chunk.js.map",
+    "index.html": "/homeworks-router-menu/index.html",
+    "static/css/main.235a66e2.chunk.css.map": "/homeworks-router-menu/static/css/main.235a66e2.chunk.css.map",
+    "static/js/2.60701c97.chunk.js.LICENSE.txt": "/homeworks-router-menu/static/js/2.60701c97.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70eea6a8.js",
+    "static/js/2.60701c97.chunk.js",
+    "static/css/main.235a66e2.chunk.css",
+    "static/js/main.ea81858a.chunk.js"
+  ]
+}
