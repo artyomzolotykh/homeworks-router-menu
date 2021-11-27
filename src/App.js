@@ -12,10 +12,10 @@ function App() {
         <Menu />
         <div className="page">
           <Routes>
-            <Route path="/" exact element={<HomePage/>} />
-            <Route path="/drift" element={<DriftPage/>} />
-            <Route path="/timeattack" element={<TimeAttackPage />} />
-            <Route path="/forza" element={<ForzaPage/>} />
+            <Route path="/homeworks-router-menu/" exact element={<HomePage/>} />
+            <Route path="/homeworks-router-menu/drift" element={<DriftPage/>} />
+            <Route path="/homeworks-router-menu/timeattack" element={<TimeAttackPage />} />
+            <Route path="/homeworks-router-menu/forza" element={<ForzaPage/>} />
           </Routes>
         </div>
       </div>

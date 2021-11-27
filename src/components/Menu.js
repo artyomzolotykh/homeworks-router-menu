@@ -5,10 +5,10 @@ const setClass = ({isActive}) => "menu__item" + (isActive ? " menu__item-active"
 const Menu = () => {
   return (
     <nav className="menu">
-      <NavLink className={setClass} to="/">Главная</NavLink>
-      <NavLink className={setClass} to="/drift">Дрифт-такси</NavLink>
-      <NavLink className={setClass} to="/timeattack">Time Attack</NavLink>
-      <NavLink className={setClass} to="/forza">Forza Karting</NavLink>
+      <NavLink className={setClass} to="/homeworks-router-menu/">Главная</NavLink>
+      <NavLink className={setClass} to="/homeworks-router-menu/drift">Дрифт-такси</NavLink>
+      <NavLink className={setClass} to="/homeworks-router-menu/timeattack">Time Attack</NavLink>
+      <NavLink className={setClass} to="/homeworks-router-menu/forza">Forza Karting</NavLink>
     </nav>
   )
 }
